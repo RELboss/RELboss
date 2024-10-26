@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm RELBoss (AKA Deadibone)</h1>
-<h3 align="center">A teen who has finished CS50 and has serious passion in Minecraft datapack and stuff link that</h3>
+<h3 align="center">A teen who has finished CS50 and has serious passion in Minecraft datapack and stuff like that</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=relboss&label=Profile%20views&color=0e75b6&style=flat" alt="relboss" /> </p>
 
