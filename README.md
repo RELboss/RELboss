@@ -5,11 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=relboss" alt="relboss" /></a> </p>
 
+# [ALL My Stuff](https://relboss.github.io/projects.html)
+
 - 🔭 I’m currently working on [A Vanilla Aether (Minecraft Datapack)](https://relboss.github.io/A-Vanilla-Aether/)
 
 - 🌱 I’m currently learning **C, JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://github.com/RELBoss](https://github.com/RELBoss)
+- 👨‍💻 All of my projects are available at [https://relboss.github.io/projects.html](projects.md)
 
 - 📫 How to reach me **hahaLOL@hilarious.com**
 
